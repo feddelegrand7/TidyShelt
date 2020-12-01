@@ -1,0 +1,12 @@
+name: appdelete
+title: appdelete
+username:
+account: ihaddaden-fodil
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3332187
+bundleId: 3928343
+url: https://ihaddaden-fodil.shinyapps.io/appdelete/
+when: 1606841204.38903
+asMultiple: FALSE
+asStatic: FALSE
